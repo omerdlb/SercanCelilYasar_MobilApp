@@ -50,20 +50,20 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDncsU3WsbCKMX3a7sApsYDRZHMxhrQoy8',
-    appId: '1:34996525208:android:83b90ca7356ff0531a98ed',
-    messagingSenderId: '34996525208',
-    projectId: 'ptsercan-75aea',
-    storageBucket: 'ptsercan-75aea.firebasestorage.app',
+    apiKey: 'x',
+    appId: 'x',
+    messagingSenderId: 'x',
+    projectId: 'x',
+    storageBucket: 'x',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyA0eTiy2NV28N70jwVj9ZY15Lc4MlvnXbw',
-    appId: '1:34996525208:ios:91cc938c07d78bc51a98ed',
-    messagingSenderId: '34996525208',
-    projectId: 'ptsercan-75aea',
-    storageBucket: 'ptsercan-75aea.firebasestorage.app',
-    iosBundleId: 'com.dlbstudio.personaltrainer.personaltrainer',
+    apiKey: 'x',
+    appId: 'x',
+    messagingSenderId: 'x',
+    projectId: 'x',
+    storageBucket: 'x',
+    iosBundleId: 'x',
   );
 
 }
